@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FamilyHangout.aternos.me:45377",
+    "ip": "FamilyHangout.aternos.me",
     "port": 45377,
     "version": "",
     "try-creative": false
