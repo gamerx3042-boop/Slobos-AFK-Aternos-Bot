@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FamilyHangout.aternos.me",
-    "port": 45377,
-    "version": "",
+    "ip": "LastResort_OnlyUs.aternos.me",
+    "port": 25261,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
